@@ -1,26 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100" />
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/jan-dupont-315079204/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-    </a>
-  </div>
-  
-  <h1>
-    hey
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
-
-### :technologist: About Me :
-I am a Full Stack Developer from Germany.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 #### Frontend
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -31,6 +18,7 @@ I am a Full Stack Developer from Germany.
 </div>
 
 #### Backend
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -38,6 +26,7 @@ I am a Full Stack Developer from Germany.
 </div>
 
 #### Variety
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -48,10 +37,12 @@ I am a Full Stack Developer from Germany.
 </div>
 
 #### Other
-- Vitepress (Docs)
-- Owlready2 (Python Ontologies)
+
+-   Vitepress (Docs)
+-   Owlready2 (Python Ontologies)
 
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jandupont&theme=horizon&mode=weekly)](https://git.io/streak-stats)
